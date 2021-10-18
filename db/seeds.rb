@@ -7,6 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 # Song.create(title: "O Father, O Satan, O sun", album: "The Satanist", artist: "Behemoth", year: "2014")
-Song.create(title: "Down for Life", album: "The Almighty",artist: "Alla Xul Elu", year: "2018")
-Song.create(title: "The Love You Want", album: "This Place Will Become Your Tomb", artist: "Sleep Token", year: "2021")
-Song.create(title: "Demolisher", album: "Kostolom", artist: "Slaughter to Prevail", year: "2021")
+# Song.create(title: "Down for Life", album: "The Almighty",artist: "Alla Xul Elu", year: "2018")
+# Song.create(title: "The Love You Want", album: "This Place Will Become Your Tomb", artist: "Sleep Token", year: "2021")
+# Song.create(title: "Demolisher", album: "Kostolom", artist: "Slaughter to Prevail", year: "2021")
